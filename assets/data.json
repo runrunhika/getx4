@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "name": "稲葉",
+        "category": "baseball",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1747/image_idphoto/270x360/201301007.jpg",
+        "oldPrice": "900",
+        "price": "490"
+    },
+    {
+        "id": 1,
+        "name": "山田",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1758/image_idphoto/270x360/201401016.jpg",
+        "oldPrice": "",
+        "price": "3000"
+    },
+    {
+        "id": 2,
+        "name": "源田",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1769/image_idphoto/270x360/201709013.jpg",
+        "oldPrice": "",
+        "price": "1100"
+    },
+    {
+        "id": 3,
+        "name": "浅村",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1755/image_idphoto/270x360/201301032.jpg",
+        "oldPrice": "200",
+        "price": "1350"
+    },
+    {
+        "id": 4,
+        "name": "菊池",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1754/image_idphoto/270x360/201301027.jpg",
+        "oldPrice": "",
+        "price": "2200"
+    },
+    {
+        "id": 5,
+        "name": "誠也",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1760/image_idphoto/270x360/201403022.jpg",
+        "oldPrice": "",
+        "price": "2760"
+    },
+    {
+        "id": 6,
+        "name": "坂本",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1757/image_idphoto/270x360/201401010.jpg",
+        "oldPrice": "",
+        "price": "3002"
+    },
+    {
+        "id": 7,
+        "name": "梅野",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1777/image_idphoto/270x360/202102005.jpg",
+        "oldPrice": "",
+        "price": "1500"
+    },
+    {
+        "id": 8,
+        "name": "近藤",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1757/image_idphoto/270x360/201401010.jpg",
+        "oldPrice": "",
+        "price": "1490"
+    },
+    {
+        "id": 9,
+        "name": "ギータ",
+        "category": "",
+        "imageUrl": "https://www.japan-baseball.jp/files/photosingle/1756/image_idphoto/270x360/201401008.jpg",
+        "oldPrice": "300",
+        "price": "4000"
+    }
+]
